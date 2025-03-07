@@ -1,0 +1,51 @@
+nav{
+    display: flex;
+    justify-content:white-space ;
+    padding : 1.6;
+    background : #fff;
+}
+nav .logo{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+nav .logo span{
+    color: purple;
+}
+.hero{
+    align-items: center;
+    padding: 100px 10%;
+}
+.content{
+    max-width: 500px ;
+h1{
+    font-size: 4rem;
+}
+h1 .highlight {
+    color: purple;
+}
+p{
+    margin: 20px 0;
+    color: #555;
+}
+.buttons{
+    gap: 15px;
+    display: flex;
+}
+.btn{
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+.primary {
+    background: black;
+    color: white;
+}
+.secondary {
+    background: #ddd;
+    color: black;
+}
+.image img{
+    width: 250px;
+    border-radius: 50%;
+    border: 2px solid purple;
+}}
