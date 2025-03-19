@@ -28,11 +28,11 @@ p{
     color: #555;
 }
 .buttons{
-    gap: 15px;
+    gap: 25px;
     display: flex;
 }
 .btn{
-    padding: 10px 20px;
+    padding: 30px 40px;
     font-size: 1rem;
     cursor: pointer;
 }
@@ -45,7 +45,7 @@ p{
     color: black;
 }
 .image img{
-    width: 250px;
+    width: 400px;
     border-radius: 50%;
     border: 2px solid purple;
 }}
